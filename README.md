@@ -1,6 +1,3 @@
-Here is your **final markdown report** with all requested details added, including your **name, ID, university, course, and lecturer**:
-
----
 
 # 🚖 Uber Rides and Weather Impact Analysis
 
@@ -115,6 +112,4 @@ By analyzing Uber rides against time and weather data, we discovered meaningful 
 
 > A data visualization project combining Uber ride data and weather insights to analyze temporal and spatial trends affecting pricing and ride demand. Built using Power BI with detailed EDA, feature engineering, and dashboard creation.
 
----
 
-Let me know if you'd like this turned into a `.md` or `.pdf` file or need help uploading your screenshots to GitHub.
